@@ -61,9 +61,9 @@
     <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Fragments\Fragment1.cs" />
-    <Compile Include="Fragments\Fragment2.cs" />
-    <Compile Include="Fragments\Fragment3.cs" />
+    <Compile Include="Fragment1.cs" />
+    <Compile Include="Fragment2.cs" />
+    <Compile Include="Fragment3.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
